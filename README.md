@@ -38,8 +38,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/LouisLallier/LouisLallier/blob/output/snake.svg" alt="Snake animation" />
-
-###
