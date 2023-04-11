@@ -9,7 +9,7 @@
 
 ###
 
-<div align="center">
+<div border="true" align="center">
   <h3 align="left">Come viisit my New Portfolio !</h3>
   <a href="https://portofolio-louis-lallier.vercel.app/">
   <img src="https://res.cloudinary.com/dpeyhfmjh/image/upload/v1681235433/production/Capture_d_e%CC%81cran_2023-04-11_a%CC%80_19.49.00_hvpch7.png" height="150" alt="portfolio"  /></a>
