@@ -9,6 +9,15 @@
 
 ###
 
+<div align="center">
+  <h3 align="left">Come viisit my New Portfolio !</h3>
+  <a href="https://portofolio-louis-lallier.vercel.app/">
+  <img src="https://res.cloudinary.com/dpeyhfmjh/image/upload/v1681235433/production/Capture_d_e%CC%81cran_2023-04-11_a%CC%80_19.49.00_hvpch7.png" height="150" alt="portfolio"  /></a>
+
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
